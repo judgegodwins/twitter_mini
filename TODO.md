@@ -1,0 +1,1 @@
+Styling issues with right border of tweetbar when items don't fill height
